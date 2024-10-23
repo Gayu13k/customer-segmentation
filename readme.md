@@ -27,7 +27,7 @@ This document outlines the comprehensive data cleaning process applied to the cu
 
 ---
 
-##2. Product Dataset
+## 2. Product Dataset
 **Columns:** ProductID, ProductName, Category, Price, StockStatus, Supplier, Updated_Price, Updated_StockStatus, LastUpdated, Discontinued.
 
 ### Cleaning Steps
